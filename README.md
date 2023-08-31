@@ -7,7 +7,7 @@ This script allows you to place a 3D patch at a specific point within a larger 3
 
 ## Example
 
-![image link](https://raw.githubusercontent.com/hasannasirkhan/3D-Patch-Placement/main/3D-Patch-Placement.png)
+![image link](https://raw.githubusercontent.com/aidl-fast/3D-Patch-Placement/main/3D-Patch-Placement.png)
 
 ## Features
 
@@ -16,7 +16,7 @@ This script allows you to place a 3D patch at a specific point within a larger 3
 
 ## Usage
 
-1. Clone this repository: `git clone https://github.com/your-username/3D-Patch-Placement.git`
+1. Clone this repository: `git clone https://github.com/aidl-fast/3D-Patch-Placement.git`
 2. Install required libraries (numpy, matplotlib): `pip install numpy matplotlib`
 3. Replace `patch_data` with your own patch data in the script.
 4. Adjust `center_point` and `desired_output_shape` if necessary.
